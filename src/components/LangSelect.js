@@ -1,5 +1,5 @@
-import React from 'react';
-import './LangSelect.css';
+import React from "react";
+import "./LangSelect.css";
 
 function LangSelect({ onLangSelect }) {
   function handleChange(e) {
